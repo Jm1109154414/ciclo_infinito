@@ -1,21 +1,25 @@
 # Intelnet.mx — Estrategia de Adquisición de Clientes
+### Empresa de Desarrollo de Software
 
-Repositorio de trabajo para la estrategia comercial de **intelnet.mx**.
+Servicios: Desarrollo web · Apps móviles · Software a medida · Automatización de procesos
 
-## Estructura
+## Estructura del Repositorio
 
 | Archivo | Contenido |
 |---|---|
-| `01_analisis_mercado.md` | Datos del mercado ISP en México 2024-2026 |
-| `02_analisis_competencia.md` | Análisis de Telmex, Izzi, Megacable, Totalplay y ISPs locales |
-| `03_segmentos_clientes.md` | Perfil de los 3 segmentos principales y su rentabilidad |
-| `04_estrategia_adquisicion.md` | Estrategia digital y tradicional de captación |
-| `05_canales_venta.md` | Canales, promotores, programas de referidos |
-| `06_plan_accion.md` | Plan de acción 90 días con prioridades y KPIs |
+| `01_mercado.md` | Mercado de software en México 2025-2026: tamaño, crecimiento, oportunidades |
+| `02_segmentos_y_precios.md` | Qué servicios son más rentables y cuánto cobrar |
+| `03_estrategia_adquisicion.md` | Cómo encontrar clientes: canales, mensajes y tácticas |
+| `04_canales_venta.md` | LinkedIn, Google, Clutch, referidos — guía operativa |
+| `05_plan_accion.md` | Plan de 90 días con tareas concretas y KPIs |
 
 ## Resumen Ejecutivo
 
-El mercado de internet en México tiene **100.2 millones de usuarios** (83.1% de la población 6+ años) con crecimiento sostenido. El **26.4% de hogares aún no tiene internet**, y los grandes operadores acumulan quejas masivas de mal servicio. Esto representa una oportunidad directa para intelnet.mx: atacar zonas desatendidas y captar clientes insatisfechos con los grandes.
+El mercado de software en México vale **$9.8 mil millones de dólares (2025)** y crece al 9.7% anual.
+Hay **5 millones de PYMEs** en México, la mayoría sin software propio ni presencia digital sólida.
 
-**Segmento más rentable a corto plazo:** PYME y empresarial — pagan 10-50x más que residencial.
-**Canal más eficiente:** Google Ads + Facebook Ads geo-segmentados a zonas de cobertura.
+La oportunidad para Intelnet está en dos frentes:
+- **Local (México):** PYMEs y empresas medianas que necesitan digitalización
+- **Internacional (nearshore):** Empresas de EE.UU. que buscan desarrollo con ahorro del 50-70%
+
+**El canal más poderoso para empezar:** LinkedIn + portafolio en Clutch + referidos de clientes actuales.
