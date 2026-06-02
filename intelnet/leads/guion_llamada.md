@@ -1,134 +1,162 @@
 # Guiones de Llamada por Sector — Intelnet.mx
+### Basados en los servicios reales de Intelnet
 
-## Regla de oro antes de leer los guiones
+**Servicios disponibles para mencionar:**
+- Páginas web informativas y dinámicas / E-commerce
+- Chatbots con IA (WhatsApp, web, Google Calendar)
+- Automatización de procesos (eliminar trabajo manual repetitivo)
+- Integración de sistemas
+- Software a medida
 
-El opener no es para vender. Es para que el prospecto diga:
-**"Sí, eso nos pasa exactamente."**
-
-Una vez que dice eso, ya tienes la conversación. Lo demás es solo escuchar y agendar una llamada de 20 minutos.
-
-Nunca abras con "somos una empresa de software". Abre con una escena concreta que viven ellos.
+**Diferenciador clave a usar en llamadas:**
+> "No somos una agencia genérica — el mismo equipo que diseña tu solución la construye y te da soporte. La relación no termina cuando entregamos el proyecto, empieza ahí."
 
 ---
 
-## SECTOR 1: Distribuidoras de Alimentos / Bebidas
+## REGLA DE ORO
 
-### La escena que viven todos los días
-El dueño o gerente empieza el día revisando 30 conversaciones de WhatsApp de sus clientes restauranteros. Alguien tiene que leer esos mensajes, apuntar los pedidos en Excel o en papel, pasarlos al almacén, y si algo no hay en stock, llamar de vuelta al cliente. Si se equivocan en algo, el restaurante no puede abrir bien. Ese proceso se repite todos los días.
+El opener describe una escena que viven hoy. No mencionas "software" ni "tecnología" ni "solución". Solo describes su realidad y preguntas si es así. Cuando dicen sí, ahí sí explicas lo que hacen.
+
+---
+
+## SECTOR 1: Clínicas, Consultorios y Servicios de Salud
+*Servicios de Intelnet que aplican: Chatbot con IA + Sistema de citas (página dinámica)*
+
+### La escena que viven
+Alguien en la clínica está respondiendo manualmente los mismos mensajes de WhatsApp todo el día: "¿tienen cita para el martes?", "¿cuánto cuesta una limpieza?", "¿están en [dirección]?". Mientras tanto, pacientes que sí agendaron no llegan porque se olvidaron y nadie les avisó — ese espacio vacío nadie lo pagó.
+
+### Opener A (el más fuerte)
+> *"Oye, [nombre], ¿cuántos mensajes de WhatsApp reciben al día de personas preguntando precios, horarios o queriendo agendar cita?"*
+
+*(Dejan que respondan. Normalmente dicen "muchos" o dan un número)*
+
+> *"¿Y esos los responde alguien del equipo a mano, uno por uno?"*
+
+### Cuando dicen que sí:
+> *"Eso es exactamente lo que quitamos. Hacemos un asistente de WhatsApp con inteligencia artificial que responde esas preguntas automáticamente, agenda la cita directo en su calendario y le manda recordatorio al paciente un día antes para que no se olvide — todo sin que nadie en su equipo tenga que hacer nada. ¿Le cuento cómo funciona? Son 20 minutos por videollamada."*
+
+### Opener B (alternativo)
+> *"¿Les ha pasado que el paciente no llegó a su cita porque se olvidó y nadie le había mandado recordatorio?"*
+
+---
+
+## SECTOR 2: Distribuidoras de Alimentos / Bebidas
+*Servicios de Intelnet que aplican: Automatización de procesos + Software a medida*
+
+### La escena que viven
+Cada mañana alguien revisa 20-40 chats de WhatsApp de clientes restauranteros con sus pedidos. Los lee, los apunta en Excel o papel, los pasa al almacén. Si algo no hay en stock, hay que llamar de vuelta al cliente. Si alguien se equivoca en un pedido, el restaurante lo siente en el servicio. Ese ciclo se repite todos los días.
 
 ### Opener
-> *"Oye, [nombre], tengo una pregunta directa: ¿sus clientes les mandan los pedidos por WhatsApp y luego alguien los tiene que pasar a mano a un Excel o a papel?"*
+> *"Oye, [nombre], ¿cómo toman ahorita los pedidos de sus clientes? ¿Les llegan por WhatsApp o tienen algún sistema?"*
 
-### Si dice SÍ:
-> *"Exacto, eso es lo que resolvemos. Hacemos una app donde sus clientes ponen el pedido directo desde su celular, el almacén lo ve en tiempo real y su equipo de reparto ya sabe qué llevar a cada ruta — sin que nadie tenga que transcribir nada. ¿Le interesaría ver cómo lo hemos hecho para otras distribuidoras? Sería una videollamada de 20 minutos, sin compromiso."*
+*(Escuchar. Si dicen WhatsApp o teléfono, continuar:)*
 
-### Si dice "no, usamos un sistema":
-> *"¿Y sus clientes pueden hacer sus pedidos solos desde el celular o todavía los llaman o mandan mensaje?"*
+> *"¿Y eso alguien lo tiene que pasar a mano después?"*
 
-*(Casi siempre la respuesta es que los clientes siguen llamando/escribiendo — ahí está la oportunidad)*
+### Cuando confirman el proceso manual:
+> *"Eso lo resolvemos conectando todo: sus clientes hacen el pedido directo desde su celular, su almacén lo ve en tiempo real y se genera el resumen de la ruta sin que nadie tenga que transcribir nada. Hemos hecho esto para otras distribuidoras y el tiempo que ahorran en el área de pedidos es enorme. ¿Quiere ver cómo funciona en 20 minutos?"*
 
 ---
 
-## SECTOR 2: Constructoras y Contratistas
+## SECTOR 3: Negocios Locales / Tiendas con Muchos Mensajes de WhatsApp
+*Servicios de Intelnet que aplican: Chatbot con IA + Página dinámica / Catálogo*
 
-### La escena que viven todos los días
-El maestro de obra manda un mensaje de WhatsApp: "necesito 200 varillas y 50 bultos de cemento". El residente lo recibe, lo pasa a alguien, se hace la compra. Al final del mes el director quiere saber cuánto llevan gastado en la obra y nadie sabe el número exacto porque está repartido entre mensajes de WhatsApp, facturas sin archivar y un Excel que nadie actualiza al día.
+### La escena que viven
+Tienen su negocio en WhatsApp Business pero alguien tiene que estar respondiendo mensajes todo el día: "¿tienen X?", "¿cuánto cuesta?", "¿a qué hora abren?", "¿hacen envíos?". Cuando están ocupados o es fin de semana, los mensajes se quedan sin respuesta y el cliente compra en otro lado.
 
 ### Opener
-> *"[nombre], dime una cosa: cuando quiere saber cuánto llevan gastado en una obra en este momento, ¿alguien se lo puede decir ahorita mismo o tienen que juntar facturas y revisar el Excel primero?"*
+> *"[nombre], ¿cuántos mensajes de WhatsApp reciben al día con preguntas de clientes — precios, disponibilidad, horarios?"*
 
-### Si dice que hay que juntar todo:
-> *"Exacto, eso es lo que resolvemos. Hacemos un sistema donde el maestro registra los materiales que pide desde su celular, cada compra entra automáticamente, y usted ve en tiempo real el costo acumulado por obra desde su teléfono. ¿15-20 minutos para mostrarle cómo funciona?"*
+*(Escuchar)*
 
-### Variante si tienen varias obras simultáneas:
-> *"¿Y cuando tienen varias obras al mismo tiempo, cómo saben cuál está dentro de presupuesto y cuál no?"*
+> *"¿Y esos los responde alguien del equipo manualmente?"*
+
+### Cuando dicen que sí:
+> *"Lo que hacemos es un asistente con inteligencia artificial que vive en su WhatsApp: responde preguntas automáticamente con la información de su negocio, comparte su catálogo, toma pedidos y hasta agenda citas — las 24 horas, aunque su equipo no esté disponible. Ningún mensaje sin respuesta. ¿Le muestro cómo funciona?"*
 
 ---
 
-## SECTOR 3: Mantenimiento Industrial / Técnicos en Campo
+## SECTOR 4: Constructoras y Contratistas
+*Servicios de Intelnet que aplican: Software a medida + Automatización*
 
-### La escena que viven todos los días
-El técnico va a hacer un servicio, llena una hoja de papel con el reporte: qué hizo, qué refacciones usó, cuánto tiempo tardó. El cliente firma en papel. El técnico regresa a la oficina (o manda foto por WhatsApp) y alguien tiene que transcribir eso a Excel o al sistema. Si se pierde el papel, se pierde el historial. Si el cliente dice que el servicio no se hizo bien, no hay forma fácil de probarlo.
+### La escena que viven
+El maestro de obra pide material por WhatsApp. Alguien lo compra. Al final del mes el director quiere saber cuánto se gastó en esa obra y nadie sabe el número exacto porque está en mensajes, facturas sin archivar y un Excel desactualizado. Con varias obras simultáneas, la situación se multiplica.
 
 ### Opener
-> *"Oye, pregunta rápida: ¿sus técnicos todavía llenan las órdenes de servicio en papel o por WhatsApp?"*
+> *"[nombre], cuando quiere saber cuánto llevan gastado en una obra en este momento, ¿alguien se lo puede decir de inmediato o tienen que juntar facturas y revisar primero?"*
 
-### Si dice que sí, en papel o WhatsApp:
-> *"Y eso luego alguien lo tiene que pasar al sistema, ¿verdad? Eso es exactamente lo que quitamos. Hacemos una app para el técnico donde llena el reporte desde su celular, el cliente firma en pantalla, y en la oficina ya ven todo en tiempo real sin que nadie transcriba nada. ¿Le cuento cómo lo hemos hecho? 20 minutos por videollamada."*
-
-### Pregunta adicional potente:
-> *"¿Y cuando un cliente les dice que un servicio no se hizo bien, cómo lo comprueban?"*
-
-*(Si no tienen registro digital, ese es su dolor más grande)*
+### Cuando dicen que hay que juntar todo:
+> *"Eso es lo que resolvemos. Hacemos un sistema donde el maestro registra los materiales desde su celular, cada compra entra automáticamente y usted ve el costo real por obra desde su teléfono en tiempo real — sin hojas de cálculo, sin esperar a fin de mes. ¿Le interesa ver cómo funciona? 20 minutos por video."*
 
 ---
 
-## SECTOR 4: Ferreterías / Tiendas con Varias Sucursales
+## SECTOR 5: Empresas con Técnicos en Campo
+*Servicios de Intelnet que aplican: Software a medida + Automatización*
 
-### La escena que viven todos los días
-Un cliente llega a la sucursal A buscando cierto producto. No está. El empleado tiene que llamar por teléfono a la sucursal B para preguntar si ellos tienen. O directamente le dicen al cliente "no sé, vaya a ver a la otra sucursal". El dueño tampoco sabe qué sucursal está por quedarse sin stock de algo hasta que ya se acabó.
+### La escena que viven
+El técnico hace el servicio, llena una hoja de papel o manda foto por WhatsApp. Alguien en la oficina transcribe eso al sistema. Si se pierde el papel, se pierde el historial. No hay forma de saber en tiempo real dónde están los técnicos ni qué servicios completaron hoy.
 
 ### Opener
-> *"[nombre], cuando un cliente pide algo en una sucursal y no lo tienen, ¿su equipo sabe en ese momento si está disponible en otra sucursal?"*
+> *"Oye, [nombre], ¿sus técnicos todavía reportan los servicios en papel o por WhatsApp?"*
 
-### Si dice que no / que tienen que llamar:
-> *"Eso es lo que resolvemos. Hacemos un sistema donde todas sus sucursales están conectadas en tiempo real: cualquier empleado ve el inventario de todas las sucursales desde la computadora, y usted como dueño ve en un solo dashboard las ventas y el stock de cada punto. ¿Tiene 20 minutos para ver cómo funciona?"*
+### Cuando dicen que sí:
+> *"Lo que hacemos es una app para el técnico donde llena el reporte desde su celular, el cliente firma en pantalla y en su oficina ya ven todo en tiempo real — sin que nadie transcriba nada. También saben en todo momento qué técnico completó qué servicio. ¿Le cuento cómo funciona?"*
 
-### Variante para el dueño:
-> *"¿Y cómo sabe qué sucursal está vendiendo más y cuál tiene producto estancado?"*
+### Pregunta alternativa que siempre abre conversación:
+> *"¿Y cuando un cliente dice que un servicio no se hizo bien, cómo lo comprueban?"*
 
 ---
 
-## SECTOR 5: Clínicas Dentales y Consultorios
+## SECTOR 6: Inmobiliarias y Agentes de Bienes Raíces
+*Servicios de Intelnet que aplican: Chatbot con IA + Página dinámica con catálogo*
 
-### La escena que viven todos los días
-La recepcionista agenda citas en papel o en un chat de WhatsApp. El día del paciente, a veces el paciente se olvidó y no llegó. Eso es un espacio vacío que nadie pagó. El doctor tampoco tiene fácil acceso al historial del paciente anterior — tiene que buscar en carpetas o en papeles. Y cobrar es un proceso aparte, también manual.
+### La escena que viven
+Reciben mensajes todo el día de personas preguntando por propiedades. Muchos son curiosos sin presupuesto. El agente pierde tiempo respondiendo a quien no va a comprar, y a veces se le va el lead caliente porque tardó en responder.
 
 ### Opener
-> *"Oye, [nombre], ¿les ha pasado que el paciente no llegó a su cita porque se olvidó y nadie le mandó recordatorio?"*
+> *"[nombre], de todos los mensajes que reciben preguntando por propiedades, ¿cuántos son personas que realmente pueden comprar o rentar?"*
 
-*(Esto le pasa al 100% de las clínicas que no tienen sistema)*
+*(Escuchar. Normalmente dicen que pocos)*
 
-### Si dice que sí:
-> *"Exacto. Hacemos un sistema de citas donde el paciente recibe un recordatorio automático por WhatsApp un día antes, puede confirmar o reagendar desde ahí, y ustedes ven la agenda del día sin estar chequeando papeles ni WhatsApp. También guarda el historial de cada paciente. ¿20 minutos para mostrárselo?"*
+> *"¿Y alguien del equipo responde todos esos mensajes a mano para filtrarlos?"*
 
-### Pregunta alternativa para abrir:
-> *"¿Cómo llevan ahorita el historial de cada paciente? ¿En papel, en Word, o ya tienen algo digital?"*
-
----
-
-## Cierre Universal (Funciona para todos los sectores)
-
-Cuando hay interés, no presiones un cierre inmediato. Solo pide la reunión:
-
-> *"Mire, lo que yo quisiera hacer es mostrarle en 20 minutos exactamente cómo funciona aplicado a una empresa como la suya. Sin costo, sin compromiso. ¿Cuándo tiene un espacio esta semana, el jueves o el viernes?"*
-
-**→ Dar dos opciones de día. No preguntar "¿cuándo puede?" porque eso no cierra.**
+### Cuando dicen que sí:
+> *"Lo que hacemos es un asistente con IA en su WhatsApp que hace las preguntas de calificación automáticamente — presupuesto, zona, tipo de propiedad — y solo le pasa al agente humano los que sí tienen perfil para comprar. Los demás quedan registrados para seguimiento. ¿Le cuento cómo funciona en 20 minutos?"*
 
 ---
 
-## Si no contestan: Mensaje de voz (máx 20 segundos)
+## Cierre Universal
 
-> *"Hola [nombre], soy [tu nombre] de Intelnet. Le llamo porque trabajamos con [distribuidoras / constructoras / clínicas] y creo que tenemos algo que les puede interesar. Le marco mañana a las [hora]. Saludos."*
+Cuando hay interés, cerrar siempre con dos opciones de día:
 
----
-
-## Si piden que mandes info primero
-
-No mandes PDF genérico. Manda esto por WhatsApp:
-
-> *"Claro, con gusto. Para mandarle lo más relevante, ¿me cuenta cuál es el proceso que más les consume tiempo ahorita en [área del dolor]? Así le mando algo específico para su caso."*
-
-Esto convierte "mándame info" en una conversación real.
+> *"Lo que yo quisiera hacer es mostrarle en 20 minutos exactamente cómo funciona. Sin costo, sin compromiso. ¿Le viene mejor el jueves o el viernes de esta semana?"*
 
 ---
 
-## Secuencia completa de seguimiento
+## Si piden información primero
+
+> *"Con gusto. Para mandarle algo que de verdad le sea útil — ¿cuál es el proceso que más les consume tiempo ahorita? Así le mando algo específico para su caso, no información genérica."*
+
+---
+
+## Objeciones Frecuentes
+
+| Objeción | Respuesta |
+|---|---|
+| "Somos muy chicos para eso" | "La mayoría de nuestros clientes son negocios pequeños. Precisamente trabajamos con PyMEs porque los grandes ya tienen sus propios equipos de TI." |
+| "Ya tenemos alguien que nos lleva la tecnología" | "¿Ese alguien les hace automatizaciones o solo mantenimiento? Porque lo que nosotros hacemos es diferente — son sistemas que trabajan solos para ahorrarles tiempo." |
+| "¿Cuánto cuesta?" | "Depende de lo que necesiten. Por eso me gustaría entender primero qué procesos tienen — a veces la solución es más sencilla y económica de lo que uno imagina. ¿Me cuenta cómo funciona [el proceso que mencionaron]?" |
+| "Mándame información" | "Claro. Para que sea útil y no un PDF genérico — ¿me dice cuál es el proceso que más tiempo les quita ahorita?" |
+| "No tenemos presupuesto" | "Entiendo. ¿Me puedo quedar con su correo para escribirle en unos meses? A veces el presupuesto se libera y ya saben con quién hablar." |
+
+---
+
+## Secuencia de seguimiento post-llamada
 
 | Día | Acción |
 |---|---|
-| Día 1 | Llamada → si no contesta, mensaje de voz |
-| Día 2 | WhatsApp: "Hola [nombre], soy [tu nombre] de Intelnet, le llamé ayer. ¿Tiene un minuto?" |
-| Día 5 | Email corto con una línea del dolor del sector + pregunta |
-| Día 15 | Último intento: "Hola, sé que está ocupado. ¿Le parece si hablamos la próxima semana?" |
-| Día 30 | Si nada: archivar y revisitar en 60 días |
+| Mismo día | WhatsApp: "Hola [nombre], le habló [nombre] de Intelnet. Le dejo el link para agendar cuando guste: intelnet.mx/contacto" |
+| Día 3 | "¿Tuvo oportunidad de verlo? Cualquier pregunta con gusto." |
+| Día 7 | Mandar un ejemplo concreto: "Mire este chatbot que hicimos para una clínica similar — [descripción breve]" |
+| Día 15 | Último intento: "¿Le parece si hablamos esta semana aunque sea 10 minutos?" |
+| Día 30+ | Archivar y revisitar en 2 meses |
